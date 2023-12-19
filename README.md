@@ -2,7 +2,7 @@
 
 ## Description
 
-This Markdown Previewer is a simple, yet powerful tool for writing and previewing markdown in real-time. Built with React(Typescript) and the marked.js library, it allows users to input markdown text and instantly view the rendered HTML output.
+This Markdown Previewer is a simple, yet powerful tool for writing and previewing markdown in real-time. Built with React and the marked.js library, it allows users to input markdown text and instantly view the rendered HTML output.
 
 ![a gif animation of the app in use](screencap.gif)
 
